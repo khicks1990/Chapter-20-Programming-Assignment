@@ -1,0 +1,2 @@
+A deque (pronounced “deck”) is a list-based collection that allows additions and removals to take place at both ends. A deque supports the operations addFront(x), removeFront( ), addRear(x), removeRear( ), and size( ). Write a class that implements a deque that stores strings using a doubly linked list that you code yourself. 
+
